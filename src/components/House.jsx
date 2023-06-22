@@ -1,35 +1,3 @@
-// import React from 'react'
-
-// let input;
-// const changeHandler =(e) => {
-//     input = e.target.value;
-//     console.log(input);
-//  };
-
-// //  const buttonstyle = {
-// //     padding : 20,
-// //     border : "none",
-// //     backgroundColor : "#f1f1f1",
-// //  }
-
-// const House = () => {
-//   return (
-//     <div>
-//         {/* ye jisme hum type krte h waisa banaya h */}
-
-//         <input 
-//         type = "number" 
-//          placeholder='enter'
-
-//          onChange = {changeHandler}
-//          />     
-//          <button>-</button>
-//          <button>+</button>  
-//     </div>
-//   );
-// };
-
-// export default House;
 
 
 
